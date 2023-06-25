@@ -1,0 +1,16 @@
+{
+  "produtos": [
+    {
+      "Id": null,
+      "Nome": "feijão",
+      "Preco": 20,
+      "id": 1
+    },
+    {
+      "Id": null,
+      "Nome": "café",
+      "Preco": 30,
+      "id": 2
+    }
+  ]
+}
